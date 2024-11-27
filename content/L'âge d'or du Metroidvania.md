@@ -15,7 +15,7 @@ toc = true
 
 {{ youtube(id="UQ0gMrQLDRg") }}
 
-> Alors qu'ils étaient assez rares il y a encore une quinzaine d'années, les Metroidvania sont désormais partout. Chez les indés comme chez les grosses structures de l'industrie. Pourquoi cette formule est-elle devenue aussi populaire ? Comment a-t-elle évolué ? Peut-elle encore le faire ? Tentative de réponse dans ce nouveau GND.
+> Alors qu'ils étaient assez rares il y avait encore une quinzaine d'années, les Metroidvania sont désormais partout. Chez les indés comme chez les grosses structures de l'industrie. Pourquoi cette formule est-elle devenue aussi populaire ? Comment a-t-elle évolué ? Peut-elle encore le faire ? Tentative de réponse dans ce nouveau GND.
 
 Jeux mentionnés:
 
