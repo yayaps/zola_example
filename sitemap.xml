@@ -78,6 +78,10 @@
         <loc>https://yayaps.github.io/zola_example/tags/wikipedia/</loc>
     </url>
     <url>
+        <loc>https://yayaps.github.io/zola_example/test/</loc>
+        <lastmod>2023-05-27T00:00:00Z</lastmod>
+    </url>
+    <url>
         <loc>https://yayaps.github.io/zola_example/the-legend-of-zelda/</loc>
         <lastmod>2023-05-27T00:00:00Z</lastmod>
     </url>
